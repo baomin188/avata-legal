@@ -119,5 +119,5 @@ We may update these Terms from time to time. We will update the "Last Updated" d
 18. Contact
 For legal questions:
 
-Email: legal@avata.app
-For user safety/privacy requests: privacy@avata.app
+Email: 15301777703@163.com
+For user safety/privacy requests: 15301777703@163.com
