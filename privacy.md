@@ -93,7 +93,7 @@ When an account deletion request is completed:
 
 Account access is disabled
 Personal data is deleted or de-identified, except where retention is legally required or needed for legitimate security/compliance purposes
-To request deletion, contact us at: privacy@avata.app
+To request deletion, contact us at: 15301777703@163.com
 
 9. User Rights
 Depending on your location, you may have rights to:
@@ -108,7 +108,7 @@ To exercise rights, contact: 15301777703@163.com
 We may verify your identity before completing certain requests.
 
 10. Children
-Avata is not directed to children under the minimum age required by applicable law. If you believe a child has provided personal data unlawfully, contact us at privacy@avata.app.
+Avata is not directed to children under the minimum age required by applicable law. If you believe a child has provided personal data unlawfully, contact us at 15301777703@163.com.
 
 11. International Data Transfers
 If you use Avata from different jurisdictions, your data may be processed in countries other than your own. We use appropriate safeguards where legally required.
