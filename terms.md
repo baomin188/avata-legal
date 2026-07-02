@@ -1,8 +1,8 @@
-Avata Terms of Service
+Echova Terms of Service
 Effective Date: June 2, 2026
-Last Updated: June 2, 2026
+Last Updated: June 20, 2026
 
-These Terms of Service ("Terms") govern your access to and use of Avata ("Avata," "we," "us," or "our"), including Chat, Contacts, Moments, AI Echo, AI Persona features, and related services (collectively, the "Service").
+These Terms of Service ("Terms") govern your access to and use of Echova ("Echova," "we," "us," or "our"), including Chat, Contacts, Moments, AI Echo, AI Persona features, and related services (collectively, the "Service").
 
 By creating an account or using the Service, you agree to these Terms.
 
@@ -17,9 +17,9 @@ Keeping account credentials secure
 All activity under your account
 Promptly notifying us of unauthorized use
 2. User Content Ownership
-You retain ownership of content you submit to Avata, including messages, posts, comments, uploads, and profile content ("User Content").
+You retain ownership of content you submit to Echova, including messages, posts, comments, uploads, and profile content ("User Content").
 
-You grant Avata a limited, non-exclusive, worldwide license to host, store, process, reproduce, and display User Content solely to operate, secure, and improve the Service, enforce policies, and comply with law.
+You grant Echova a limited, non-exclusive, worldwide license to host, store, process, reproduce, and display User Content solely to operate, secure, and improve the Service, enforce policies, and comply with law.
 
 You represent that you have the rights necessary to submit your User Content.
 
@@ -50,10 +50,16 @@ Impersonate any person or entity
 Commit fraud, phishing, scams, or social engineering
 Interfere with security, integrity, or operation of the Service
 Attempt unauthorized access to accounts, systems, or data
-6. Harassment, Safety, and Community Conduct
-Avata is designed as a low-disturbance communication space. You must engage respectfully.
+6. Zero Tolerance for Objectionable Content and Abusive Users
+Echova is designed as a low-disturbance communication space. You must engage respectfully.
+
+There is zero tolerance for objectionable, abusive, or harmful content and behavior. Prohibited material includes, without limitation, content that is unlawful, harassing, threatening, hateful, defamatory, sexually explicit, exploitative of minors, violent, or that promotes self-harm.
 
 Harassment, coercion, hate conduct, targeted abuse, or repeated unwanted contact may result in enforcement actions, including content removal, account restrictions, suspension, or termination.
+
+We will act on reports of objectionable content within 24 hours by removing the content and ejecting (suspending or terminating) the user who provided it.
+
+By using the Service you agree not to post objectionable content and not to engage in abusive behavior toward other users.
 
 7. Report, Block, and Remove Mechanisms
 Users may use in-app tools to:
@@ -85,7 +91,7 @@ Use of the Service is also governed by our Privacy Policy:
 https://baomin188.github.io/avata-legal/privacy.md
 
 11. Intellectual Property
-Except for User Content, the Service and its software, design, trademarks, and related materials are owned by Avata or licensors and protected by law.
+Except for User Content, the Service and its software, design, trademarks, and related materials are owned by Echova or licensors and protected by law.
 
 No rights are granted except as expressly provided in these Terms.
 
@@ -100,18 +106,18 @@ We do not guarantee uninterrupted, error-free, or fully secure operation.
 14. Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, AVATA AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AND SERVICE PROVIDERS WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS OPPORTUNITY, ARISING FROM OR RELATED TO THE SERVICE.
 
-Where permitted by law, Avata's total liability for claims related to the Service is limited to the amount you paid (if any) for the Service in the 12 months preceding the claim.
+Where permitted by law, Echova's total liability for claims related to the Service is limited to the amount you paid (if any) for the Service in the 12 months preceding the claim.
 
 Some jurisdictions do not allow certain liability limitations; those limits apply only to the extent legally permitted.
 
 15. Indemnification
-You agree to defend, indemnify, and hold harmless Avata and its affiliates from claims, liabilities, damages, losses, and expenses arising from:
+You agree to defend, indemnify, and hold harmless Echova and its affiliates from claims, liabilities, damages, losses, and expenses arising from:
 
 Your use of the Service
 Your User Content
 Your violation of these Terms or law
 16. Governing Law and Disputes
-These Terms are governed by applicable law as specified by Avata's legal entity and jurisdiction disclosures. Venue and dispute process may be provided in additional legal notices where required.
+These Terms are governed by applicable law as specified by Echova's legal entity and jurisdiction disclosures. Venue and dispute process may be provided in additional legal notices where required.
 
 17. Changes to Terms
 We may update these Terms from time to time. We will update the "Last Updated" date and provide notice where required. Continued use after updates means you accept the revised Terms.
