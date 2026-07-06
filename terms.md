@@ -125,5 +125,5 @@ We may update these Terms from time to time. We will update the "Last Updated" d
 18. Contact
 For legal questions:
 
-Email: 15301777703@163.com
-For user safety/privacy requests: 15301777703@163.com
+Email: echovaai@outlook.com
+For user safety/privacy requests: echovaai@outlook.com

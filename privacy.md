@@ -93,7 +93,7 @@ When an account deletion request is completed:
 
 Account access is disabled
 Personal data is deleted or de-identified, except where retention is legally required or needed for legitimate security/compliance purposes
-To request deletion, contact us at: 15301777703@163.com
+To request deletion, contact us at: echovaai@outlook.com
 
 9. User Rights
 Depending on your location, you may have rights to:
@@ -104,11 +104,11 @@ Delete personal data
 Restrict or object to certain processing
 Data portability (where applicable)
 Withdraw consent where processing is consent-based
-To exercise rights, contact: 15301777703@163.com
+To exercise rights, contact: echovaai@outlook.com
 We may verify your identity before completing certain requests.
 
 10. Children
-Echova is not directed to children under the minimum age required by applicable law. If you believe a child has provided personal data unlawfully, contact us at 15301777703@163.com.
+Echova is not directed to children under the minimum age required by applicable law. If you believe a child has provided personal data unlawfully, contact us at echovaai@outlook.com.
 
 11. International Data Transfers
 If you use Echova from different jurisdictions, your data may be processed in countries other than your own. We use appropriate safeguards where legally required.
@@ -122,5 +122,5 @@ We may update this Privacy Policy from time to time. We will update the "Last Up
 14. Contact Us
 For privacy questions or requests:
 
-Email: 15301777703@163.com
+Email: echovaai@outlook.com
 Subject Line: Privacy Request
